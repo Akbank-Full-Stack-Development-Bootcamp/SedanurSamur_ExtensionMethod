@@ -1,2 +1,2 @@
 # SedanurSamur_ExtensionMethod
-extension methodlar ile sezar şifreleme ve şidre çözücü
+extension methodlar ile sezar şifreleme ve şifre çözücü :)

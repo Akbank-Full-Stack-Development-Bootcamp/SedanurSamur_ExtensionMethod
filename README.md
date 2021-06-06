@@ -1,2 +1,2 @@
 # SedanurSamur_ExtensionMethod
-extension methodlar ile sezar şifreleme ve şifre çözücü :)
+extension method kullanarak yapılan sezar şifreleme ve sezar şifre cözücü klavyeden girilen stringi şifreler veya çözer :)
